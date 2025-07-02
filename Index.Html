@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Drone Swarm Command UI</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <img src="https://via.placeholder.com/50x50?text=Logo" alt="Airan Logo" class="logo">
+    <h1>Airan Defense Technology Philippines</h1>
+  </header>
+
+  <main>
+    <section class="swarm-status">
+      <h2>Swarm Radar</h2>
+      <canvas id="radarCanvas" width="400" height="300"></canvas>
+    </section>
+
+    <section class="missile-controls">
+      <h2>Missile Slots</h2>
+      <div class="missile-buttons">
+        <button class="missile-btn" data-slot="1">Slot 1</button>
+        <button class="missile-btn" data-slot="2">Slot 2</button>
+        <button class="missile-btn" data-slot="3">Slot 3</button>
+        <button class="missile-btn" data-slot="4">Slot 4</button>
+        <button class="missile-btn" data-slot="5">Slot 5</button>
+        <button class="missile-btn" data-slot="6">Slot 6</button>
+      </div>
+    </section>
+
+    <section class="targeting">
+      <h2>Targeting System</h2>
+      <div id="target-info">No target selected</div>
+      <button id="lockBtn">Lock Target</button>
+      <button id="abortBtn" class="abort">Abort Mission</button>
+    </section>
+
+    <section class="telemetry">
+      <h2>Drone Telemetry</h2>
+      <ul>
+        <li><strong>Battery:</strong> 87%</li>
+        <li><strong>GPS:</strong> 14.556N, 121.024E</li>
+        <li><strong>Altitude:</strong> 1,200 m</li>
+        <li><strong>Signal:</strong> Strong</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    &copy; 2100+ Airan Defense Technology Philippines
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
